@@ -141,7 +141,7 @@
         exit
        ```
 
-      - ![Todo list database items](./images/Capture-SQLDatabases.JPG)
+      - ![Todo list database items](./images/Capture-SetUpTodo.JPG)
     - g) Create Crud Application to pull data from the database that was setup above using php
         ```
         nano /var/www/projectLEMP/todo_list.php
