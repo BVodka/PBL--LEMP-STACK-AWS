@@ -149,8 +149,8 @@
         enter code below into file created -- pulls data into a table
 
         <?php
-        $user = "peter";
-        $password = "asulikit44";
+        $user = "example-user";
+        $password = "password";
         $database = "example_database";
         $table = "todo_list";
       
